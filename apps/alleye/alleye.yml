@@ -1,0 +1,5 @@
+name: 'AllEye'
+desciption: 'Show hidden files, then hide them again, from the tray on macOS.'
+website: 'http://all-eye.io'
+repository: 'https://github.com/gvost/alleye'
+category: 'Utilities'
